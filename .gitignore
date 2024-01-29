@@ -1,6 +1,5 @@
 error.log
 request.log
-abc/
 .DS_Store
 
 # or *.log
