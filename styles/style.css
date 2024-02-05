@@ -28,3 +28,8 @@ body {
   font-size: 50px;
   font-weight: 500;
 }
+.about {
+  width: 40rem;
+  margin: 5% auto;
+  text-align: justify;
+}
